@@ -53,13 +53,16 @@ Please pick 2 of the following optional features to add to the drawing app:
 - [ ] Save app state to localstorage so that it persists on reload
 - [ ] Add color swatches to the Pen Panel that let you select one of the previous 6 colors picked with the color picker
 - [ ] Stamp panel: save each of the uploaded images to state so users can click on a previously uploaded image to stamp
-    - ![multiple stamps example](public/images/multiple-stamps-example.gif)
+    ![multiple stamps example](public/images/multiple-stamps-example.gif)
 - [ ] Add a route to the included server that sends the array of images in `data/images.js` and load them as default stamp options
 - [ ] Download panel: on opening the download panel, save a snapshot of the current canvas. When a user clicks on a snapshot, load that image onto the canvas
-    - ![snapshot example](public/images/snapshot-example.gif)
+
+	![snapshot example](public/images/snapshot-example.gif)
 - [ ] Download Panel: share image link
   - [ ] Build a route that posts your glorious drawing to the s3 bucket called `socialtables-apprenticeship`
   - [ ] In your app, build a button that uses this route to save your drawing to s3 and get a shareable link that opens in a new window
+
+	![share drawing example](public/images/share-drawing-example.gif)
 
 # Helpful Resources
 - [MDN Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
