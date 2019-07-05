@@ -1,0 +1,30 @@
+{
+  "name": "apprentice-challenge-2019",
+  "version": "0.1.0",
+  "description": "Social Tables Apprentice Challenge 2019",
+  "scripts": {
+    "server": "nodemon --watch server --exec node ./server/index.js",
+    "start": "react-scripts start",
+    "cypress:open": "cypress open --env CYPRESS_ENV=development",
+    "cypress:run": "$(npm bin)/cypress run --env CYPRESS_ENV=development",
+    "test": "if [[ ${NODE_ENV:-development} == development ]] ; then npm run cypress:run ; fi"
+  },
+  "author": "Social Tables",
+  "dependencies": {
+    "aws-sdk": "^2.487.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.4",
+    "cuid": "^2.1.1",
+    "express": "^4.17.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "cypress": "^3.3.2",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.10.0",
+    "nodemon": "^1.18.3",
+    "react-scripts": "^1.1.4"
+  }
+}
