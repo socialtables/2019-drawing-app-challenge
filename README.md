@@ -64,12 +64,28 @@ Please pick 2 of the following optional features to add to the drawing app:
 
 	![share drawing example](public/images/share-drawing-example.gif)
 
-# Helpful Resources
+## Helpful Resources
 - [MDN Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 - [Official React Docs](https://reactjs.org/docs/getting-started.html)
 - [Official React Hooks Overview](https://reactjs.org/docs/hooks-overview.html)
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/): a great explanation of one of the trickier aspects of hooks
 
+
+## How to submit
+Upload all files to a cloud provider of your choice (Dropbox, google Drive, etc.) and send your link(s) to [apprenticeshipchallenge@socialtables.com](mailto:apprenticeshipchallenge@socialtables.com) with the subject line: `Social Tables Apprentice Challenge`.
+
+Please include:
+* `YourInitials-readme.{md, txt}` containing:
+    * Instructions for running your code
+    * Any notes you wish to include
+    * **Brief answers to the following questions**:
+        1. What aspect of your submission are you most proud of, and why?
+        1. What would you work on if you had more time?  
+        1. Of all the resources (blog posts, tutorials, videos, mentors etc.) you referenced, what was most helpful for you?
+* `YourInitials-code.{tar.gz, zip}` with your code.
+    * Submitting your `node-modules` folder isn't necessary, because we can get it by running `npm install`
+    * You should submit any files you found necessary to change and enough support and explanation so we can reproduce your results. In any case, include all the information in `YourInitials-readme.{md, txt}`.
+* `YourInitials-resume.pdf` containing your resume.
 
 ## FAQ
 * **Do I need to complete the entire challenge to submit? I'm not sure if my submission is good enough**
