@@ -96,7 +96,7 @@ Please pick 2 of the following optional features to add to the drawing app:
      3. Of all the resources (blog posts, tutorials, videos, mentors etc.) you referenced, what was most helpful for you?
 2. Delete your `node_modules` folder (we can get them back by running `npm i`) and zip up your project as `YourInitials-code.{zip, tar.gz}`
    - You should submit any files and enough support and explanation so we can reproduce your results. In any case, include all this information in `YourInitials-readme.{md, txt}`.
-3. **Fill out the application on the [Social Tables Job Board](https://hire.lever.co/jobs/internal/f2555c1a-0657-4b58-b5fd-1cab2030d4ef).**
+3. **Fill out the application on the [Social Tables Job Board](https://jobs.lever.co/socialtables/2a2eb002-1def-4eae-a617-21388f1eb84d).**
 
 ## FAQ
 * **Do I need to complete the entire challenge to submit? I'm not sure if my submission is good enough**
