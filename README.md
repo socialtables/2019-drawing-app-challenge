@@ -21,7 +21,7 @@ For applicants who successfully complete this code challenge, there will be a ph
 
 ## Getting Started
 Note: You'll need a version of [`Node.js`](https://nodejs.org/en/) (>= v8) set up on your machine to run the code.
-1. Clone the `starter` branch of this repo
+1. Clone the `master` branch of this repo
 2. Open the folder and run:
     - `npm i`
     - `npm start`
