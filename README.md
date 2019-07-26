@@ -73,11 +73,15 @@ Please pick 2 of the following optional features to add to the drawing app:
     - ![multiple stamps example](public/images/readme/multiple-stamps-example.gif)
 - [ ] Add a route to the included server that sends the images in `public/images` and loads them as default stamp options
 - [ ] Download panel: on opening the download panel, save a snapshot of the current canvas. When a user clicks on a snapshot, load that image onto the canvas
-    - ![snapshot example](public/images/readme/snapshot-example.gif)
-- [ ] Download Panel: share image link
-  - [ ] Build a route that posts your glorious drawing to the s3 bucket called `socialtables-apprenticeship`
-  - [ ] In your app, build a button that uses this route to save your drawing to s3 and get a shareable link that opens in a new window
-  - ![share link example](public/images/readme/share-drawing-example.gif)
+
+	![snapshot example](public/images/snapshot-example.gif)
+
+- [ ] ~~Download Panel: share image link~~
+  - [ ] ~~Build a route that posts your glorious drawing to the s3 bucket called `socialtables-apprenticeship`~~
+  - [ ] ~~In your app, build a button that uses this route to save your drawing to s3 and get a shareable link that opens in a new window~~
+  
+_due to confusion, we've removed this bonus option. sorry!_ 
+
 
 ## Helpful Resources
 - [MDN Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
