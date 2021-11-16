@@ -11,7 +11,7 @@
   },
   "author": "Social Tables",
   "dependencies": {
-    "aws-sdk": "^2.487.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.4",
     "cuid": "^2.1.1",
